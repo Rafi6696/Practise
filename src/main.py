@@ -12,6 +12,10 @@ Cars
 
 Clothes
 
+Accessories
+
+
+
 
 
 
